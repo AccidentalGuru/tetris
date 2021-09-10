@@ -1,4 +1,4 @@
-This is a Tetris game to keep you fron being too productive,
+This is a Tetris game to keep you from being too productive,
 
 Nobody needs cold fusion anyways.
 
